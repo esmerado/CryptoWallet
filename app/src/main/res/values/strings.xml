@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CryptoWallet</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+    <string name="login_title">Login</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_with_facebook">Login with FaceBook</string>
+    <string name="login_legal1">By using this application you are accepting our</string>
+    <string name="login_legal2">Terms of Service</string>
+    <string name="login_legal3">and</string>
+    <string name="login_legal4">privacy policies</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="log_in">Log In</string>
+    <string name="or">OR</string>
+    <string name="login_with">Login With</string>
+    <string name="error_input_empty">The fields must not be empty</string>
+    <string name="error_not_a_valid_email">Please enter a valid E-Mail</string>
+    <string name="error_not_a_valid_phone_number">Please enter a valid phone number</string>
+    <string name="error_incorrectly_repeated_password">The passwords do not match</string>
+    <string name="error_invalid_credentials">The E-Mail or password is incorrect</string>
+    <string name="success_registration">Successfully registered new user</string>
+    <string name="success_login">Successfully logged in</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="accept">Accept</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="logout">Logout</string>
+    <string name="icn_camera_view_switch_camera_content_description">Logout</string>
+    <string name="icn_camera_view_camera_shutter_content_description">Logout</string>
+    <string name="icn_camera_view_view_gallery_content_description">Logout</string>
+    <string name="user_screen">User Screen</string>
+
+</resources>
